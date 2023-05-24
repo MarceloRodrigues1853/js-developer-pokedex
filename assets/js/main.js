@@ -1,3 +1,6 @@
+//import { loadPokemonDetails } from "./pokemon-details.js";
+
+
 const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMoreButton')
 
